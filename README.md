@@ -31,3 +31,6 @@ The game interface includes:
 ![Number-Guessing-Game-Win](./Screenshot2.png)
 
 Enjoy playing and see how quickly you can guess the correct number!
+
+## Project URL
+Try this game online![Number-Guessing-Game](https://icy-guo.github.io/Number-Guessing-Game/)
