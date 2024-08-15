@@ -33,4 +33,4 @@ The game interface includes:
 Enjoy playing and see how quickly you can guess the correct number!
 
 ## Project URL
-Try this game online![Number-Guessing-Game](https://icy-guo.github.io/Number-Guessing-Game/)
+Try this game online :) [Number-Guessing-Game](https://icy-guo.github.io/Number-Guessing-Game/
